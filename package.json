@@ -24,7 +24,7 @@
     "tape": "^3.4.0"
   },
   "optionalDependencies": {
-    "phantomjs": "^1.9.16"
+    "phantomjs": "Medium/phantomjs.git#version-2.0"
   },
   "repository": {
     "type": "git",
